@@ -1,0 +1,8 @@
+logs/
+*.log
+.DS_Store
+run_stage.sh
+
+shots/
+CLAUDE.md
+LANDING_TASK.md
